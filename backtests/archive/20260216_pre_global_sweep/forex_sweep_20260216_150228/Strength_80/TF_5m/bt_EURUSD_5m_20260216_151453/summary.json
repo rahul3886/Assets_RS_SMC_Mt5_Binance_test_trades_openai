@@ -1,0 +1,85 @@
+{
+  "metrics": {
+    "total_trades": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 33.33,
+    "profit_factor": 4.71,
+    "avg_win_pct": 0.15,
+    "avg_loss_pct": -0.02,
+    "avg_rr": NaN,
+    "max_drawdown_pct": 2.0,
+    "total_return_pct": -2.0,
+    "final_capital": 9800
+  },
+  "trades": [
+    {
+      "timestamp": "2026-02-13 16:45:00",
+      "timeframe": "5m",
+      "signal": "SELL",
+      "entry_price": 1.18652,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "NEW_YORK",
+      "rsi": 49.14,
+      "outcome": "LOSS",
+      "exit_price": 1.18659,
+      "pnl": -7.00000000000145e-05,
+      "pnl_pct": -0.005899605569228879,
+      "exit_reason": "TIMEOUT",
+      "bars_held": 100,
+      "risk_reward": 0
+    },
+    {
+      "timestamp": "2026-02-13 17:55:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 1.18482,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "NEW_YORK",
+      "rsi": 33.49,
+      "outcome": "WIN",
+      "exit_price": 1.18656,
+      "pnl": 0.0017400000000000748,
+      "pnl_pct": 0.1468577505443928,
+      "exit_reason": "TIMEOUT",
+      "bars_held": 100,
+      "risk_reward": 0
+    },
+    {
+      "timestamp": "2026-02-16 02:00:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 1.18644,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "ASIAN",
+      "rsi": 42.36,
+      "outcome": "LOSS",
+      "exit_price": 1.18614,
+      "pnl": -0.00029999999999996696,
+      "pnl_pct": -0.025285728734699354,
+      "exit_reason": "TIMEOUT",
+      "bars_held": 100,
+      "risk_reward": 0
+    }
+  ],
+  "equity_curve": [
+    {
+      "timestamp": "2026-02-13 16:45:00",
+      "equity": 9900,
+      "trade_num": 1
+    },
+    {
+      "timestamp": "2026-02-13 17:55:00",
+      "equity": 9900,
+      "trade_num": 2
+    },
+    {
+      "timestamp": "2026-02-16 02:00:00",
+      "equity": 9800,
+      "trade_num": 3
+    }
+  ]
+}

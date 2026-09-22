@@ -1,0 +1,37 @@
+[
+  {
+    "threshold": 40,
+    "win_rate": 27.5,
+    "total_trades": 120,
+    "profit_factor": 1.31,
+    "total_return": -19.41
+  },
+  {
+    "threshold": 50,
+    "win_rate": 27.5,
+    "total_trades": 120,
+    "profit_factor": 1.31,
+    "total_return": -19.41
+  },
+  {
+    "threshold": 60,
+    "win_rate": 38.1,
+    "total_trades": 21,
+    "profit_factor": 3.09,
+    "total_return": -13.0
+  },
+  {
+    "threshold": 70,
+    "win_rate": 33.33,
+    "total_trades": 6,
+    "profit_factor": 1.44,
+    "total_return": -4.0
+  },
+  {
+    "threshold": 80,
+    "win_rate": 0.0,
+    "total_trades": 1,
+    "profit_factor": 0.0,
+    "total_return": -1.0
+  }
+]

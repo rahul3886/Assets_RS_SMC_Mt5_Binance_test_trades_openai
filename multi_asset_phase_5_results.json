@@ -1,0 +1,38 @@
+{
+  "EURUSD": {
+    "win_rate": 27.87,
+    "profit_factor": 0.98,
+    "total_trades": 183,
+    "total_return": -132.0
+  },
+  "GBPJPY": {
+    "win_rate": 23.59,
+    "profit_factor": 0.65,
+    "total_trades": 195,
+    "total_return": -149.0
+  },
+  "XAUUSD": {
+    "win_rate": 34.03,
+    "profit_factor": 1.02,
+    "total_trades": 191,
+    "total_return": -114.47
+  },
+  "XAGUSD": {
+    "win_rate": 35.9,
+    "profit_factor": 1.05,
+    "total_trades": 156,
+    "total_return": 17.39
+  },
+  "BTC/USDT": {
+    "win_rate": 19.83,
+    "profit_factor": 0.96,
+    "total_trades": 121,
+    "total_return": -42.6
+  },
+  "SOL/USDT": {
+    "win_rate": 26.61,
+    "profit_factor": 0.64,
+    "total_trades": 124,
+    "total_return": -68.53
+  }
+}

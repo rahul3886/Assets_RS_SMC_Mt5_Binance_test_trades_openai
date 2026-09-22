@@ -1,0 +1,85 @@
+{
+  "metrics": {
+    "total_trades": 3,
+    "wins": 0,
+    "losses": 3,
+    "win_rate": 0.0,
+    "profit_factor": 0.0,
+    "avg_win_pct": 0,
+    "avg_loss_pct": -0.04,
+    "avg_rr": 72.82,
+    "max_drawdown_pct": 3.0,
+    "total_return_pct": -3.0,
+    "final_capital": 9700
+  },
+  "trades": [
+    {
+      "timestamp": "2026-02-12 00:40:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 1.6647699999999999,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "UNKNOWN",
+      "rsi": 44.53,
+      "outcome": "LOSS",
+      "exit_price": 1.66379,
+      "pnl": -0.0009799999999997588,
+      "pnl_pct": -0.05886699063532854,
+      "exit_reason": "SL_HIT",
+      "bars_held": 31,
+      "risk_reward": 25.481173469393866
+    },
+    {
+      "timestamp": "2026-02-12 02:00:00",
+      "timeframe": "5m",
+      "signal": "SELL",
+      "entry_price": 1.66707,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "UNKNOWN",
+      "rsi": 65.01,
+      "outcome": "LOSS",
+      "exit_price": 1.66722,
+      "pnl": -0.00014999999999987246,
+      "pnl_pct": -0.008997822526940827,
+      "exit_reason": "SL_HIT",
+      "bars_held": 57,
+      "risk_reward": 166.70700000014176
+    },
+    {
+      "timestamp": "2026-02-12 03:00:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 1.66474,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "UNKNOWN",
+      "rsi": 43.91,
+      "outcome": "LOSS",
+      "exit_price": 1.66379,
+      "pnl": -0.0009500000000000064,
+      "pnl_pct": -0.05706596825930814,
+      "exit_reason": "SL_HIT",
+      "bars_held": 3,
+      "risk_reward": 26.285368421052365
+    }
+  ],
+  "equity_curve": [
+    {
+      "timestamp": "2026-02-12 00:40:00",
+      "equity": 9900,
+      "trade_num": 1
+    },
+    {
+      "timestamp": "2026-02-12 02:00:00",
+      "equity": 9800,
+      "trade_num": 2
+    },
+    {
+      "timestamp": "2026-02-12 03:00:00",
+      "equity": 9700,
+      "trade_num": 3
+    }
+  ]
+}

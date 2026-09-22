@@ -1,0 +1,45 @@
+# 💎 Institutional SMC Playbook
+
+This playbook defines the exact strategies used by institutional traders (Banks/Hedge Funds) and how to execute them using your Premium Dashboard.
+
+---
+
+## 🏗️ Core Concepts
+
+### 1. Market Bias (The "Pressure")
+Bias tells you if a structural level (Demand/Supply) is holding or falling.
+- **`HEAVY (LH)`**: Lower Highs at a Demand Zone. Sellers are pushing harder. **Expect a breakout to the downside.**
+- **`LIFTING (HL)`**: Higher Lows at a Supply Zone. Buyers are stepping in higher. **Expect an upside breakout.**
+
+### 2. Liquidity Targets (The "Magnets")
+Where is the "Fuel" (Stop Losses) sitting?
+- **BSL (Buy-Side Liquidity)**: Located **ABOVE** equal highs. These are shorters' stop losses. Banks SELL into this liquidity.
+- **SSL (Sell-Side Liquidity)**: Located **BELOW** equal lows. These are buyers' stop losses. Banks BUY from this liquidity.
+
+---
+
+## 💹 Trading Playbook
+
+### Setup A: The Institutional Reversal (The "Sweep")
+**Scenario:** Price is falling toward a major support level.
+1. **Detect**: Dashboard shows `SSL` in the Liquidity Target column.
+2. **Observe**: Price pierces below the Demand zone into the `SSL` magnet.
+3. **Volume Check**: Look for **`EXTREME (200%)`** Liquidity. 
+4. **Action**: Wait for a rejection wick. **BUY** the moment the "Sweep" is finished.
+   - *Why?* Banks just filled their massive buy orders using retail panic-sells.
+
+### Setup B: The Breakout Trap (The "Squeeze")
+**Scenario:** Price is grinding up against a Supply level.
+1. **Detect**: Dashboard shows `BSL` in the Liquidity Target column.
+2. **Observe**: Market Bias shows **`LIFTING (HL)`**.
+3. **Action**: Do NOT sell at the Supply zone yet. Wait for price to spike above the highs into `BSL`.
+4. **Volume Check**: If **`EXTREME (200%)`** volume hits but price fails to stay above, **SELL**.
+   - *Why?* Retail bought the "breakout," but Banks used those buy orders to exit their longs.
+
+---
+
+## 🛠️ Dashboard Guide
+
+- **Score (0-100%)**: Confluence of RSI, Structure, FVG, and Zones. **>70% is high conviction.**
+- **SMC Status**: Tells you if you are currently inside a **DEMAND** (Buy) or **SUPPLY** (Sell) zone.
+- **Liquidity**: **EXTREME** means the "Big Money" is actively executing. Always look for Extreme volume at BSL/SSL for high-win-rate reversals.

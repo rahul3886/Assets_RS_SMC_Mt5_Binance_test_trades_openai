@@ -1,0 +1,460 @@
+{
+  "baseline": [
+    {
+      "exit_price": 1955.77,
+      "exit_reason": "TRAIL_SL",
+      "pnl": -3.89,
+      "pnl_pct": -0.39,
+      "bars_held": 40,
+      "max_favorable_pct": 0.396,
+      "max_adverse_pct": 0.546,
+      "trail_log": [
+        "Bar+20: SL\u21921955.7700 (\ud83d\udcc9 TRAILING BEHIND PIVOT)"
+      ],
+      "trade_num": 1,
+      "symbol": "ETH/USDT",
+      "direction": "SELL",
+      "entry_price": 1948.2,
+      "timestamp": "2026-02-11 20:07:00",
+      "strength": 80,
+      "engine": "BASELINE"
+    },
+    {
+      "exit_price": 1968.267315,
+      "exit_reason": "TP_HIT",
+      "pnl": 8.81,
+      "pnl_pct": 0.88,
+      "bars_held": 22,
+      "max_favorable_pct": 1.014,
+      "max_adverse_pct": 0.0,
+      "trail_log": [
+        "Bar+7: SL\u21921950.9200 (\ud83d\udcc8 TRAILING BEHIND PIVOT)"
+      ],
+      "trade_num": 2,
+      "symbol": "ETH/USDT",
+      "direction": "BUY",
+      "entry_price": 1951.08,
+      "timestamp": "2026-02-11 21:01:00",
+      "strength": 80,
+      "engine": "BASELINE"
+    },
+    {
+      "exit_price": 1940.13,
+      "exit_reason": "TRAIL_SL",
+      "pnl": 8.57,
+      "pnl_pct": 0.86,
+      "bars_held": 31,
+      "max_favorable_pct": 1.25,
+      "max_adverse_pct": 0.0,
+      "trail_log": [
+        "Bar+15: SL\u21921956.9500 (\ud83d\udcc9 TRAILING BEHIND PIVOT)",
+        "Bar+16: SL\u21921949.5400 (\ud83d\udcc9 TRAILING BEHIND PIVOT)",
+        "Bar+30: SL\u21921940.1300 (\ud83d\udcc9 TRAILING BEHIND PIVOT)"
+      ],
+      "trade_num": 3,
+      "symbol": "ETH/USDT",
+      "direction": "SELL",
+      "entry_price": 1956.9,
+      "timestamp": "2026-02-11 23:06:00",
+      "strength": 80,
+      "engine": "BASELINE"
+    },
+    {
+      "exit_price": 1957.4725,
+      "exit_reason": "TP_HIT",
+      "pnl": 5.63,
+      "pnl_pct": 0.56,
+      "bars_held": 39,
+      "max_favorable_pct": 0.594,
+      "max_adverse_pct": 0.345,
+      "trail_log": [
+        "Bar+37: SL\u21921975.3500 (\ud83d\udcc9 TRAILING BEHIND PIVOT)",
+        "Bar+38: SL\u21921969.9000 (\ud83d\udcc9 TRAILING BEHIND PIVOT)",
+        "Bar+39: SL\u21921968.3531 (\ud83d\udee1\ufe0f BREAKEVEN ACHIEVED)"
+      ],
+      "trade_num": 4,
+      "symbol": "ETH/USDT",
+      "direction": "SELL",
+      "entry_price": 1968.55,
+      "timestamp": "2026-02-12 04:34:00",
+      "strength": 80,
+      "engine": "BASELINE"
+    },
+    {
+      "exit_price": 79.57,
+      "exit_reason": "TIMEOUT",
+      "pnl": 0.0,
+      "pnl_pct": 0.0,
+      "bars_held": 200,
+      "max_favorable_pct": 1.935,
+      "max_adverse_pct": 0.741,
+      "trail_log": [
+        "Bar+174: SL\u219279.5700 (\ud83d\udcc8 TRAILING BEHIND PIVOT)",
+        "Bar+176: SL\u219279.9200 (\ud83d\udcc8 TRAILING BEHIND PIVOT)"
+      ],
+      "trade_num": 1,
+      "symbol": "SOL/USDT",
+      "direction": "BUY",
+      "entry_price": 79.57,
+      "timestamp": "2026-02-11 18:30:00",
+      "strength": 65,
+      "engine": "BASELINE"
+    },
+    {
+      "exit_price": 79.53,
+      "exit_reason": "TRAIL_SL",
+      "pnl": 4.63,
+      "pnl_pct": 0.46,
+      "bars_held": 84,
+      "max_favorable_pct": 1.377,
+      "max_adverse_pct": 0.338,
+      "trail_log": [
+        "Bar+66: SL\u219279.7300 (\ud83d\udcc9 TRAILING BEHIND PIVOT)",
+        "Bar+68: SL\u219279.5300 (\ud83d\udcc9 TRAILING BEHIND PIVOT)"
+      ],
+      "trade_num": 2,
+      "symbol": "SOL/USDT",
+      "direction": "SELL",
+      "entry_price": 79.9,
+      "timestamp": "2026-02-11 22:14:00",
+      "strength": 65,
+      "engine": "BASELINE"
+    },
+    {
+      "exit_price": 79.53,
+      "exit_reason": "TRAIL_SL",
+      "pnl": 1.38,
+      "pnl_pct": 0.14,
+      "bars_held": 20,
+      "max_favorable_pct": 0.615,
+      "max_adverse_pct": 0.013,
+      "trail_log": [
+        "Bar+5: SL\u219279.5300 (\ud83d\udcc9 TRAILING BEHIND PIVOT)"
+      ],
+      "trade_num": 3,
+      "symbol": "SOL/USDT",
+      "direction": "SELL",
+      "entry_price": 79.64,
+      "timestamp": "2026-02-11 23:44:00",
+      "strength": 65,
+      "engine": "BASELINE"
+    },
+    {
+      "exit_price": 80.707145,
+      "exit_reason": "TP_HIT",
+      "pnl": 0.9,
+      "pnl_pct": 0.09,
+      "bars_held": 0,
+      "max_favorable_pct": 0.149,
+      "max_adverse_pct": 0.0,
+      "trail_log": [],
+      "trade_num": 4,
+      "symbol": "SOL/USDT",
+      "direction": "SELL",
+      "entry_price": 80.78,
+      "timestamp": "2026-02-12 01:37:00",
+      "strength": 65,
+      "engine": "BASELINE"
+    },
+    {
+      "exit_price": 80.65875,
+      "exit_reason": "TP_HIT",
+      "pnl": 5.47,
+      "pnl_pct": 0.55,
+      "bars_held": 23,
+      "max_favorable_pct": 0.548,
+      "max_adverse_pct": 0.025,
+      "trail_log": [
+        "Bar+2: SL\u219280.2100 (\ud83d\udcc8 TRAILING BEHIND PIVOT)",
+        "Bar+7: SL\u219280.2280 (\ud83d\udee1\ufe0f BREAKEVEN ACHIEVED)",
+        "Bar+23: SL\u219280.3700 (\ud83d\udcc8 TRAILING BEHIND PIVOT)"
+      ],
+      "trade_num": 5,
+      "symbol": "SOL/USDT",
+      "direction": "BUY",
+      "entry_price": 80.22,
+      "timestamp": "2026-02-12 03:32:00",
+      "strength": 95,
+      "engine": "BASELINE"
+    },
+    {
+      "exit_price": 80.75536,
+      "exit_reason": "INIT_SL",
+      "pnl": -2.55,
+      "pnl_pct": -0.25,
+      "bars_held": 2,
+      "max_favorable_pct": 0.149,
+      "max_adverse_pct": 0.385,
+      "trail_log": [],
+      "trade_num": 6,
+      "symbol": "SOL/USDT",
+      "direction": "SELL",
+      "entry_price": 80.55,
+      "timestamp": "2026-02-12 04:00:00",
+      "strength": 75,
+      "engine": "BASELINE"
+    },
+    {
+      "exit_price": 80.91196,
+      "exit_reason": "TP_HIT",
+      "pnl": 0.84,
+      "pnl_pct": 0.08,
+      "bars_held": 0,
+      "max_favorable_pct": 0.136,
+      "max_adverse_pct": 0.0,
+      "trail_log": [],
+      "trade_num": 7,
+      "symbol": "SOL/USDT",
+      "direction": "SELL",
+      "entry_price": 80.98,
+      "timestamp": "2026-02-12 06:25:00",
+      "strength": 65,
+      "engine": "BASELINE"
+    },
+    {
+      "exit_price": 80.59,
+      "exit_reason": "TRAIL_SL",
+      "pnl": -0.37,
+      "pnl_pct": -0.04,
+      "bars_held": 30,
+      "max_favorable_pct": 0.335,
+      "max_adverse_pct": 0.062,
+      "trail_log": [
+        "Bar+19: SL\u219280.5900 (\ud83d\udcc9 TRAILING BEHIND PIVOT)"
+      ],
+      "trade_num": 8,
+      "symbol": "SOL/USDT",
+      "direction": "SELL",
+      "entry_price": 80.56,
+      "timestamp": "2026-02-12 06:52:00",
+      "strength": 65,
+      "engine": "BASELINE"
+    }
+  ],
+  "v2": [
+    {
+      "exit_price": 1949.12,
+      "exit_reason": "DYNAMIC_SL",
+      "pnl": -0.47,
+      "pnl_pct": -0.05,
+      "bars_held": 1,
+      "max_favorable_pct": 0.003,
+      "max_adverse_pct": 0.219,
+      "trail_log": [
+        "Bar+1: SL\u21921949.1200 (PARTIAL EXIT/TIGHTEN (Score 5))"
+      ],
+      "trade_num": 1,
+      "symbol": "ETH/USDT",
+      "direction": "SELL",
+      "entry_price": 1948.2,
+      "timestamp": "2026-02-11 20:07:00",
+      "strength": 80,
+      "engine": "V2"
+    },
+    {
+      "exit_price": 1953.67,
+      "exit_reason": "HARD EXIT (Score 9: Structure Break,Signal Flip)",
+      "pnl": 1.33,
+      "pnl_pct": 0.13,
+      "bars_held": 0,
+      "max_favorable_pct": 0.151,
+      "max_adverse_pct": 0.0,
+      "trail_log": [],
+      "trade_num": 2,
+      "symbol": "ETH/USDT",
+      "direction": "BUY",
+      "entry_price": 1951.08,
+      "timestamp": "2026-02-11 21:01:00",
+      "strength": 80,
+      "engine": "V2"
+    },
+    {
+      "exit_price": 1952.03,
+      "exit_reason": "DYNAMIC_SL",
+      "pnl": 2.49,
+      "pnl_pct": 0.25,
+      "bars_held": 1,
+      "max_favorable_pct": 0.318,
+      "max_adverse_pct": 0.0,
+      "trail_log": [
+        "Bar+1: SL\u21921952.0300 (PARTIAL EXIT/TIGHTEN (Score 5))"
+      ],
+      "trade_num": 3,
+      "symbol": "ETH/USDT",
+      "direction": "SELL",
+      "entry_price": 1956.9,
+      "timestamp": "2026-02-11 23:06:00",
+      "strength": 80,
+      "engine": "V2"
+    },
+    {
+      "exit_price": 1968.5,
+      "exit_reason": "DYNAMIC_SL",
+      "pnl": 0.03,
+      "pnl_pct": 0.0,
+      "bars_held": 1,
+      "max_favorable_pct": 0.039,
+      "max_adverse_pct": 0.087,
+      "trail_log": [
+        "Bar+1: SL\u21921968.5000 (PARTIAL EXIT/TIGHTEN (Score 5))"
+      ],
+      "trade_num": 4,
+      "symbol": "ETH/USDT",
+      "direction": "SELL",
+      "entry_price": 1968.55,
+      "timestamp": "2026-02-12 04:34:00",
+      "strength": 80,
+      "engine": "V2"
+    },
+    {
+      "exit_price": 79.65,
+      "exit_reason": "DYNAMIC_SL",
+      "pnl": 1.01,
+      "pnl_pct": 0.1,
+      "bars_held": 1,
+      "max_favorable_pct": 0.126,
+      "max_adverse_pct": 0.176,
+      "trail_log": [
+        "Bar+1: SL\u219279.6500 (PARTIAL EXIT/TIGHTEN (Score 5))"
+      ],
+      "trade_num": 1,
+      "symbol": "SOL/USDT",
+      "direction": "BUY",
+      "entry_price": 79.57,
+      "timestamp": "2026-02-11 18:30:00",
+      "strength": 65,
+      "engine": "V2"
+    },
+    {
+      "exit_price": 79.9575,
+      "exit_reason": "DYNAMIC_SL",
+      "pnl": -0.72,
+      "pnl_pct": -0.07,
+      "bars_held": 1,
+      "max_favorable_pct": 0.05,
+      "max_adverse_pct": 0.175,
+      "trail_log": [
+        "Bar+1: SL\u219279.9575 (Adjusted (G=32, K=0.5))"
+      ],
+      "trade_num": 2,
+      "symbol": "SOL/USDT",
+      "direction": "SELL",
+      "entry_price": 79.9,
+      "timestamp": "2026-02-11 22:14:00",
+      "strength": 65,
+      "engine": "V2"
+    },
+    {
+      "exit_price": 79.61,
+      "exit_reason": "DYNAMIC_SL",
+      "pnl": 0.38,
+      "pnl_pct": 0.04,
+      "bars_held": 1,
+      "max_favorable_pct": 0.1,
+      "max_adverse_pct": 0.013,
+      "trail_log": [
+        "Bar+1: SL\u219279.6100 (PARTIAL EXIT/TIGHTEN (Score 5))"
+      ],
+      "trade_num": 3,
+      "symbol": "SOL/USDT",
+      "direction": "SELL",
+      "entry_price": 79.64,
+      "timestamp": "2026-02-11 23:44:00",
+      "strength": 65,
+      "engine": "V2"
+    },
+    {
+      "exit_price": 80.71,
+      "exit_reason": "DYNAMIC_SL",
+      "pnl": 0.87,
+      "pnl_pct": 0.09,
+      "bars_held": 1,
+      "max_favorable_pct": 0.173,
+      "max_adverse_pct": 0.0,
+      "trail_log": [
+        "Bar+1: SL\u219280.7100 (PARTIAL EXIT/TIGHTEN (Score 5))"
+      ],
+      "trade_num": 4,
+      "symbol": "SOL/USDT",
+      "direction": "SELL",
+      "entry_price": 80.78,
+      "timestamp": "2026-02-12 01:37:00",
+      "strength": 65,
+      "engine": "V2"
+    },
+    {
+      "exit_price": 80.35,
+      "exit_reason": "HARD EXIT (Score 7: Macro Decay,Signal Flip)",
+      "pnl": 1.62,
+      "pnl_pct": 0.16,
+      "bars_held": 0,
+      "max_favorable_pct": 0.162,
+      "max_adverse_pct": 0.025,
+      "trail_log": [],
+      "trade_num": 5,
+      "symbol": "SOL/USDT",
+      "direction": "BUY",
+      "entry_price": 80.22,
+      "timestamp": "2026-02-12 03:32:00",
+      "strength": 95,
+      "engine": "V2"
+    },
+    {
+      "exit_price": 80.5,
+      "exit_reason": "DYNAMIC_SL",
+      "pnl": 0.62,
+      "pnl_pct": 0.06,
+      "bars_held": 1,
+      "max_favorable_pct": 0.149,
+      "max_adverse_pct": 0.223,
+      "trail_log": [
+        "Bar+1: SL\u219280.5000 (PARTIAL EXIT/TIGHTEN (Score 5))"
+      ],
+      "trade_num": 6,
+      "symbol": "SOL/USDT",
+      "direction": "SELL",
+      "entry_price": 80.55,
+      "timestamp": "2026-02-12 04:00:00",
+      "strength": 75,
+      "engine": "V2"
+    },
+    {
+      "exit_price": 80.92,
+      "exit_reason": "DYNAMIC_SL",
+      "pnl": 0.74,
+      "pnl_pct": 0.07,
+      "bars_held": 1,
+      "max_favorable_pct": 0.148,
+      "max_adverse_pct": 0.0,
+      "trail_log": [
+        "Bar+1: SL\u219280.9200 (PARTIAL EXIT/TIGHTEN (Score 5))"
+      ],
+      "trade_num": 7,
+      "symbol": "SOL/USDT",
+      "direction": "SELL",
+      "entry_price": 80.98,
+      "timestamp": "2026-02-12 06:25:00",
+      "strength": 65,
+      "engine": "V2"
+    },
+    {
+      "exit_price": 80.57,
+      "exit_reason": "DYNAMIC_SL",
+      "pnl": -0.12,
+      "pnl_pct": -0.01,
+      "bars_held": 1,
+      "max_favorable_pct": 0.037,
+      "max_adverse_pct": 0.025,
+      "trail_log": [
+        "Bar+1: SL\u219280.5700 (PARTIAL EXIT/TIGHTEN (Score 5))"
+      ],
+      "trade_num": 8,
+      "symbol": "SOL/USDT",
+      "direction": "SELL",
+      "entry_price": 80.56,
+      "timestamp": "2026-02-12 06:52:00",
+      "strength": 65,
+      "engine": "V2"
+    }
+  ]
+}

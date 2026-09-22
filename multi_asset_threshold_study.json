@@ -1,0 +1,419 @@
+{
+  "60": {
+    "EURUSD": {
+      "win_rate": 41.27,
+      "profit_factor": 1.45,
+      "total_trades": 63,
+      "total_return": -37.0,
+      "daily_trades": {
+        "2026-02-11": 23,
+        "2026-02-12": 23,
+        "2026-02-13": 17
+      },
+      "session_metrics": {
+        "ASIAN": {
+          "trades": 1,
+          "win_rate": 0.0,
+          "yield_rr": -1
+        },
+        "LONDON": {
+          "trades": 6,
+          "win_rate": 33.33,
+          "yield_rr": -4.0
+        },
+        "NEW_YORK": {
+          "trades": 46,
+          "win_rate": 52.17,
+          "yield_rr": -22.0
+        }
+      }
+    },
+    "GBPJPY": {
+      "win_rate": 12.28,
+      "profit_factor": 0.25,
+      "total_trades": 57,
+      "total_return": -50.0,
+      "daily_trades": {
+        "2026-02-10": 3,
+        "2026-02-11": 24,
+        "2026-02-12": 17,
+        "2026-02-13": 13
+      },
+      "session_metrics": {
+        "ASIAN": {
+          "trades": 1,
+          "win_rate": 100.0,
+          "yield_rr": 0.0
+        },
+        "LONDON": {
+          "trades": 4,
+          "win_rate": 50.0,
+          "yield_rr": -2.0
+        },
+        "NEW_YORK": {
+          "trades": 45,
+          "win_rate": 8.89,
+          "yield_rr": -41.0
+        }
+      }
+    },
+    "XAUUSD": {
+      "win_rate": 31.25,
+      "profit_factor": 0.72,
+      "total_trades": 48,
+      "total_return": -29.94,
+      "daily_trades": {
+        "2026-02-10": 2,
+        "2026-02-11": 12,
+        "2026-02-12": 21,
+        "2026-02-13": 13
+      },
+      "session_metrics": {
+        "ASIAN": {
+          "trades": 3,
+          "win_rate": 0.0,
+          "yield_rr": -3
+        },
+        "LONDON": {
+          "trades": 2,
+          "win_rate": 50.0,
+          "yield_rr": -1.0
+        },
+        "NEW_YORK": {
+          "trades": 40,
+          "win_rate": 35.0,
+          "yield_rr": -22.94
+        }
+      }
+    },
+    "XAGUSD": {
+      "win_rate": 35.59,
+      "profit_factor": 0.85,
+      "total_trades": 59,
+      "total_return": 9.35,
+      "daily_trades": {
+        "2026-02-10": 4,
+        "2026-02-11": 12,
+        "2026-02-12": 28,
+        "2026-02-13": 15
+      },
+      "session_metrics": {
+        "ASIAN": {
+          "trades": 4,
+          "win_rate": 25.0,
+          "yield_rr": 1.23
+        },
+        "NEW_YORK": {
+          "trades": 46,
+          "win_rate": 30.43,
+          "yield_rr": -14.45
+        }
+      }
+    },
+    "BTC/USDT": {
+      "win_rate": 9.09,
+      "profit_factor": 0.4,
+      "total_trades": 33,
+      "total_return": -17.66,
+      "daily_trades": {
+        "2026-02-10": 1,
+        "2026-02-11": 9,
+        "2026-02-12": 19,
+        "2026-02-13": 4
+      },
+      "session_metrics": {
+        "LONDON": {
+          "trades": 7,
+          "win_rate": 0.0,
+          "yield_rr": -7
+        },
+        "NEW_YORK": {
+          "trades": 22,
+          "win_rate": 13.64,
+          "yield_rr": -6.66
+        }
+      }
+    },
+    "SOL/USDT": {
+      "win_rate": 18.18,
+      "profit_factor": 0.38,
+      "total_trades": 33,
+      "total_return": -18.8,
+      "daily_trades": {
+        "2026-02-10": 3,
+        "2026-02-11": 14,
+        "2026-02-12": 12,
+        "2026-02-13": 4
+      },
+      "session_metrics": {
+        "ASIAN": {
+          "trades": 1,
+          "win_rate": 0.0,
+          "yield_rr": -1
+        },
+        "LONDON": {
+          "trades": 2,
+          "win_rate": 0.0,
+          "yield_rr": -2
+        },
+        "NEW_YORK": {
+          "trades": 27,
+          "win_rate": 14.81,
+          "yield_rr": -14.8
+        }
+      }
+    }
+  },
+  "70": {
+    "EURUSD": {
+      "win_rate": 50.0,
+      "profit_factor": 2.05,
+      "total_trades": 44,
+      "total_return": -22.0,
+      "daily_trades": {
+        "2026-02-11": 14,
+        "2026-02-12": 17,
+        "2026-02-13": 13
+      },
+      "session_metrics": {
+        "LONDON": {
+          "trades": 2,
+          "win_rate": 0.0,
+          "yield_rr": -2
+        },
+        "NEW_YORK": {
+          "trades": 37,
+          "win_rate": 59.46,
+          "yield_rr": -15.0
+        }
+      }
+    },
+    "GBPJPY": {
+      "win_rate": 12.5,
+      "profit_factor": 0.21,
+      "total_trades": 40,
+      "total_return": -35.0,
+      "daily_trades": {
+        "2026-02-11": 17,
+        "2026-02-12": 11,
+        "2026-02-13": 12
+      },
+      "session_metrics": {
+        "ASIAN": {
+          "trades": 1,
+          "win_rate": 100.0,
+          "yield_rr": 0.0
+        },
+        "LONDON": {
+          "trades": 1,
+          "win_rate": 0.0,
+          "yield_rr": -1
+        },
+        "NEW_YORK": {
+          "trades": 38,
+          "win_rate": 10.53,
+          "yield_rr": -34.0
+        }
+      }
+    },
+    "XAUUSD": {
+      "win_rate": 36.84,
+      "profit_factor": 0.83,
+      "total_trades": 38,
+      "total_return": -20.94,
+      "daily_trades": {
+        "2026-02-10": 1,
+        "2026-02-11": 10,
+        "2026-02-12": 17,
+        "2026-02-13": 10
+      },
+      "session_metrics": {
+        "NEW_YORK": {
+          "trades": 37,
+          "win_rate": 37.84,
+          "yield_rr": -19.94
+        }
+      }
+    },
+    "XAGUSD": {
+      "win_rate": 25.53,
+      "profit_factor": 0.49,
+      "total_trades": 47,
+      "total_return": -26.39,
+      "daily_trades": {
+        "2026-02-11": 12,
+        "2026-02-12": 22,
+        "2026-02-13": 13
+      },
+      "session_metrics": {
+        "ASIAN": {
+          "trades": 3,
+          "win_rate": 0.0,
+          "yield_rr": -3
+        },
+        "NEW_YORK": {
+          "trades": 43,
+          "win_rate": 27.91,
+          "yield_rr": -22.39
+        }
+      }
+    },
+    "BTC/USDT": {
+      "win_rate": 0.0,
+      "profit_factor": 0.0,
+      "total_trades": 19,
+      "total_return": -19.0,
+      "daily_trades": {
+        "2026-02-11": 6,
+        "2026-02-12": 10,
+        "2026-02-13": 3
+      },
+      "session_metrics": {
+        "LONDON": {
+          "trades": 1,
+          "win_rate": 0.0,
+          "yield_rr": -1
+        },
+        "NEW_YORK": {
+          "trades": 16,
+          "win_rate": 0.0,
+          "yield_rr": -16
+        }
+      }
+    },
+    "SOL/USDT": {
+      "win_rate": 25.0,
+      "profit_factor": 0.44,
+      "total_trades": 20,
+      "total_return": -8.4,
+      "daily_trades": {
+        "2026-02-10": 3,
+        "2026-02-11": 6,
+        "2026-02-12": 8,
+        "2026-02-13": 3
+      },
+      "session_metrics": {
+        "ASIAN": {
+          "trades": 1,
+          "win_rate": 0.0,
+          "yield_rr": -1
+        },
+        "NEW_YORK": {
+          "trades": 16,
+          "win_rate": 18.75,
+          "yield_rr": -6.4
+        }
+      }
+    }
+  },
+  "80": {
+    "EURUSD": {
+      "win_rate": 40.0,
+      "profit_factor": 0.78,
+      "total_trades": 10,
+      "total_return": -6.0,
+      "daily_trades": {
+        "2026-02-11": 4,
+        "2026-02-12": 6
+      },
+      "session_metrics": {
+        "NEW_YORK": {
+          "trades": 9,
+          "win_rate": 44.44,
+          "yield_rr": -5.0
+        }
+      }
+    },
+    "GBPJPY": {
+      "win_rate": 0.0,
+      "profit_factor": 0.0,
+      "total_trades": 10,
+      "total_return": -10.0,
+      "daily_trades": {
+        "2026-02-11": 4,
+        "2026-02-12": 1,
+        "2026-02-13": 5
+      },
+      "session_metrics": {
+        "NEW_YORK": {
+          "trades": 10,
+          "win_rate": 0.0,
+          "yield_rr": -10
+        }
+      }
+    },
+    "XAUUSD": {
+      "win_rate": 50.0,
+      "profit_factor": 1.83,
+      "total_trades": 2,
+      "total_return": -1.0,
+      "daily_trades": {
+        "2026-02-10": 1,
+        "2026-02-12": 1
+      },
+      "session_metrics": {
+        "NEW_YORK": {
+          "trades": 1,
+          "win_rate": 100.0,
+          "yield_rr": 0.0
+        }
+      }
+    },
+    "XAGUSD": {
+      "win_rate": 50.0,
+      "profit_factor": 0.57,
+      "total_trades": 4,
+      "total_return": -1.15,
+      "daily_trades": {
+        "2026-02-12": 3,
+        "2026-02-13": 1
+      },
+      "session_metrics": {
+        "NEW_YORK": {
+          "trades": 4,
+          "win_rate": 50.0,
+          "yield_rr": -1.15
+        }
+      }
+    },
+    "BTC/USDT": {
+      "win_rate": 0.0,
+      "profit_factor": 0.0,
+      "total_trades": 3,
+      "total_return": -3.0,
+      "daily_trades": {
+        "2026-02-11": 2,
+        "2026-02-12": 1
+      },
+      "session_metrics": {
+        "LONDON": {
+          "trades": 1,
+          "win_rate": 0.0,
+          "yield_rr": -1
+        },
+        "NEW_YORK": {
+          "trades": 2,
+          "win_rate": 0.0,
+          "yield_rr": -2
+        }
+      }
+    },
+    "SOL/USDT": {
+      "win_rate": 0.0,
+      "profit_factor": 0.0,
+      "total_trades": 3,
+      "total_return": -3.0,
+      "daily_trades": {
+        "2026-02-11": 2,
+        "2026-02-12": 1
+      },
+      "session_metrics": {
+        "NEW_YORK": {
+          "trades": 3,
+          "win_rate": 0.0,
+          "yield_rr": -3
+        }
+      }
+    }
+  }
+}

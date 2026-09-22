@@ -1,0 +1,85 @@
+{
+  "metrics": {
+    "total_trades": 3,
+    "wins": 0,
+    "losses": 3,
+    "win_rate": 0.0,
+    "profit_factor": 0.0,
+    "avg_win_pct": 0,
+    "avg_loss_pct": -0.09,
+    "avg_rr": 11.79,
+    "max_drawdown_pct": 3.0,
+    "total_return_pct": -3.0,
+    "final_capital": 9700
+  },
+  "trades": [
+    {
+      "timestamp": "2026-02-11 23:50:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 1.36267,
+      "strength": 90,
+      "smc_status": "NEUTRAL",
+      "session": "UNKNOWN",
+      "rsi": 47.22,
+      "outcome": "LOSS",
+      "exit_price": 1.36242,
+      "pnl": -0.0002500000000000835,
+      "pnl_pct": -0.018346334769245926,
+      "exit_reason": "TIMEOUT",
+      "bars_held": 100,
+      "risk_reward": 0
+    },
+    {
+      "timestamp": "2026-02-12 00:35:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 1.3627099999999999,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "UNKNOWN",
+      "rsi": 50.47,
+      "outcome": "LOSS",
+      "exit_price": 1.36094,
+      "pnl": -0.0017699999999998273,
+      "pnl_pct": -0.1298882374092674,
+      "exit_reason": "SL_HIT",
+      "bars_held": 95,
+      "risk_reward": 11.54838983050951
+    },
+    {
+      "timestamp": "2026-02-12 01:25:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 1.36264,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "UNKNOWN",
+      "rsi": 50.87,
+      "outcome": "LOSS",
+      "exit_price": 1.36094,
+      "pnl": -0.0017000000000000348,
+      "pnl_pct": -0.1247578230493773,
+      "exit_reason": "SL_HIT",
+      "bars_held": 85,
+      "risk_reward": 12.023294117646683
+    }
+  ],
+  "equity_curve": [
+    {
+      "timestamp": "2026-02-11 23:50:00",
+      "equity": 9900,
+      "trade_num": 1
+    },
+    {
+      "timestamp": "2026-02-12 00:35:00",
+      "equity": 9800,
+      "trade_num": 2
+    },
+    {
+      "timestamp": "2026-02-12 01:25:00",
+      "equity": 9700,
+      "trade_num": 3
+    }
+  ]
+}

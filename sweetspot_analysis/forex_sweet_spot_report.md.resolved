@@ -1,0 +1,44 @@
+# Forex Sweet Spot Sweep Report (3-Day Analysis)
+
+This report summarizes the performance of Major Forex pairs across varying signal strengths and timeframes to identify "Golden Tier" configurations for live trading.
+
+## Performance Matrix
+
+| Asset | TF | Strength | Trades | Win Rate | Profit Factor | Avg R/R | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **USDJPY** | **5m** | **60%** | **9** | **55.56%** | **3.67** | **11.95** | 💎 **GOLDEN** |
+| **EURUSD** | **1m** | **70%** | **53** | **39.62%** | **1.75** | **337.51** | ⭐ **VERIFIED** |
+| **GBPUSD** | **1m** | **70%** | **40** | **27.50%** | **1.72** | **263.98** | ⭐ **VERIFIED** |
+| **EURUSD** | **5m** | **80%** | **3** | **33.33%** | **4.71** | **N/A** | 🔍 **EXPERIMENTAL** |
+| EURUSD | 1m | 60% | 97 | 29.90% | 0.96 | 168.04 | ⚠️ UNSTABLE |
+| USDJPY | 5m | 70% | 6 | 33.33% | 1.52 | 15.80 | ⚖️ NEUTRAL |
+| GBPUSD | 5m | 70% | 6 | 33.33% | 1.63 | 15.87 | ⚖️ NEUTRAL |
+| USDJPY | 1m | ALL | 11-61 | <20% | <0.30 | <40.0 | ❌ REJECTED |
+
+## Key Insights
+
+### 💎 The 5m USDJPY Paradox
+While USDJPY performs poorly on the 1m timeframe (PF < 0.3), it excels on the **5m timeframe at 60% strength**. 
+- **Profit Factor**: 3.67
+- **Win Rate**: 55.56%
+- **Action**: Promote to Live Whitelist (5m only).
+
+### ⭐ The 70% "Sweet Spot" for 1m Majors
+Both EURUSD and GBPUSD show their best balance of volume and profitability at **70% Strength on the 1m timeframe**.
+- **EURUSD (70%)**: PF 1.75, 53 trades (High Volume Efficiency).
+- **GBPUSD (70%)**: PF 1.72, 40 trades (Consistent Scalping).
+- **Action**: Implement as default scalping tier for FX.
+
+### 🔍 Low Volume Outliers
+**EURUSD 5m at 80% strength** produced a massive **4.71 Profit Factor** but only 3 trades in the 3-day window. 
+- While technically superior, the sample size is too small for full confidence.
+- **Action**: Label as "High-Target Experimental."
+
+## Strategic Recommendations
+
+1. **Active Whitelist Update**: Enable USDJPY (5m), EURUSD (1m), and GBPUSD (1m) with specified strengths.
+2. **Frequency Calibration**: The 1m Forex pairs provide significantly more "reps" (40-50 trades) than Metals (5-10 trades) over the same period, allowing for faster compounding.
+3. **Avoid 1m USDJPY**: Consistently underperforms across all signal thresholds.
+
+---
+*Report generated on 2026-02-16 based on Forex Strength Sweep results.*

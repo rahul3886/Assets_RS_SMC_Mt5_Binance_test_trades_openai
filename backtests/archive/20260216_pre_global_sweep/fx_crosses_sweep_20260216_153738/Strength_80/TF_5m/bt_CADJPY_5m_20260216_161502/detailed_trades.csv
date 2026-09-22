@@ -1,0 +1,2 @@
+timestamp,timeframe,signal,entry_price,strength,smc_status,session,rsi,outcome,exit_price,pnl,pnl_pct,exit_reason,bars_held,risk_reward
+2026-02-12 08:15:00,5m,SELL,112.903,80,NEUTRAL,UNKNOWN,75.5,LOSS,113.01,-0.10699999999999932,-0.09477161811466418,SL_HIT,66,15.827523364486085

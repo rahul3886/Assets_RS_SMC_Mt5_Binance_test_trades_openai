@@ -1,0 +1,2 @@
+commands
+(taskkill /IM python.exe /F (PowerShell or CMD) to force-stop ALL running Python scripts:)

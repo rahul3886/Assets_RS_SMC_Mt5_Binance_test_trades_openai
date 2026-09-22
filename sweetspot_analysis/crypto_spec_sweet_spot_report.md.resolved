@@ -1,0 +1,42 @@
+# Crypto Speculative Sweet Spot Report (DOGE / TRUMP) 🚀
+
+This report details the findings from the 3-day backtest sweep of speculative crypto assets: **DOGE/USDT** and **TRUMP/USDT**.
+Focus: **1m Timeframe** for high-volatility liquidity production.
+
+## 🏆 Performance Highlights (1m Timeframe)
+
+| Asset | Strength | Trades | Win Rate | Profit Factor | Avg R/R | Grade |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **TRUMP** | **70%** | **4** | **75.00%** | **111.67** | **20.95** | 🎰 **Jackpot** |
+| **TRUMP** | **60%** | **8** | **62.50%** | **9.10** | **20.09** | 💎 **Diamond** |
+| **DOGE** | **70%** | **10** | **50.00%** | **2.69** | **41.75** | ⭐ **Gold** |
+| **DOGE** | **60%** | **18** | **44.44%** | **2.46** | **27.90** | ⭐ **Gold** |
+
+## 🔍 Detailed Analysis
+
+### 🎰 TRUMP/USDT: The "Black Swan" Hunter
+**Performance**: Minimal trades (4-8 over 3 days) but **massive** payouts.
+- **70% Strength**: Returned a PF of **111.67**. This indicates virtually zero drawdown relative to wins.
+- **Behavior**: The asset likely trends violently after breaking structure. The strategy captures the entire expansion.
+- **Risk**: Low sample size means high variance. Suitable for small position sizing with wide targets.
+
+### ⭐ DOGE/USDT: The Volatility Scalper
+**Performance**: Consistent volume (18 trades @ 60%) with a robust PF > 2.4.
+- **Stability**: Unlike TRUMP, DOGE offers a steady stream of entries. 
+- **Win Rate**: ~45-50%, which is healthy for a high R/R strategy (Avg R/R ~27-40).
+- **Role**: Can serve as a primary crypto scalping engine alongside BTC/SOL.
+
+## ⚠️ Volatility Warning
+These assets are **highly volatile**.
+- **Slippage**: Live execution may suffer from slippage during the violent moves seen in backtests.
+- **Spread**: Ensure the spread on the exchange is tight enough for 1m scalping.
+
+## Strategic Recommendations
+
+1. **Add DOGE (1m @ 60%)** to the Active Whitelist as a "Standard" Crypto asset.
+2. **Add TRUMP (1m @ 60/70%)** to the Whitelist as a "Special Forces" asset.
+   - **Constraint**: Use 50% reduced position size due to extreme volatility.
+   - **Target**: Aim for the 20R moves.
+
+---
+*Generated 2026-02-16 based on [crypto_spec_sweep](file:///c:/BILLIONAIRE%20RAHUL%20BOGI/Assets_RS_SMC_Mt5_Binance_test_trades/backtests/run_crypto_spec_sweep.py#7-58) data.*

@@ -1,0 +1,239 @@
+{
+  "metrics": {
+    "total_trades": 10,
+    "wins": 5,
+    "losses": 5,
+    "win_rate": 50.0,
+    "profit_factor": 2.69,
+    "avg_win_pct": 0.57,
+    "avg_loss_pct": -0.21,
+    "avg_rr": 41.75,
+    "max_drawdown_pct": 5.28,
+    "total_return_pct": 0.46,
+    "final_capital": 10045.84
+  },
+  "trades": [
+    {
+      "timestamp": "2026-02-16 01:36:00",
+      "timeframe": "1m",
+      "signal": "BUY",
+      "entry_price": 0.10224,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "UNKNOWN",
+      "rsi": 46.71,
+      "outcome": "LOSS",
+      "exit_price": 0.10197,
+      "pnl": -0.00026999999999999247,
+      "pnl_pct": -0.2640845070422461,
+      "exit_reason": "SL_HIT",
+      "bars_held": 3,
+      "risk_reward": 5.680000000000144
+    },
+    {
+      "timestamp": "2026-02-16 01:37:00",
+      "timeframe": "1m",
+      "signal": "BUY",
+      "entry_price": 0.10224,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "UNKNOWN",
+      "rsi": 46.71,
+      "outcome": "LOSS",
+      "exit_price": 0.10197,
+      "pnl": -0.00026999999999999247,
+      "pnl_pct": -0.2640845070422461,
+      "exit_reason": "SL_HIT",
+      "bars_held": 2,
+      "risk_reward": 5.680000000000144
+    },
+    {
+      "timestamp": "2026-02-16 03:45:00",
+      "timeframe": "1m",
+      "signal": "BUY",
+      "entry_price": 0.10189,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "UNKNOWN",
+      "rsi": 47.4,
+      "outcome": "WIN",
+      "exit_price": 0.10341834999999998,
+      "pnl": 0.0015283499999999839,
+      "pnl_pct": 1.4999999999999842,
+      "exit_reason": "TP_HIT",
+      "bars_held": 74,
+      "risk_reward": 5.458392857143022
+    },
+    {
+      "timestamp": "2026-02-16 04:07:00",
+      "timeframe": "1m",
+      "signal": "SELL",
+      "entry_price": 0.10258,
+      "strength": 90,
+      "smc_status": "NEUTRAL",
+      "session": "ASIAN",
+      "rsi": 66.63,
+      "outcome": "LOSS",
+      "exit_price": 0.10259,
+      "pnl": -9.999999999996123e-06,
+      "pnl_pct": -0.009748488984203668,
+      "exit_reason": "SL_HIT",
+      "bars_held": 1,
+      "risk_reward": 153.87000000006006
+    },
+    {
+      "timestamp": "2026-02-16 07:12:00",
+      "timeframe": "1m",
+      "signal": "BUY",
+      "entry_price": 0.10221,
+      "strength": 75,
+      "smc_status": "NEUTRAL",
+      "session": "ASIAN",
+      "rsi": 47.82,
+      "outcome": "WIN",
+      "exit_price": 0.10236,
+      "pnl": 0.00015000000000001124,
+      "pnl_pct": 0.146756677428834,
+      "exit_reason": "TIMEOUT",
+      "bars_held": 100,
+      "risk_reward": 0
+    },
+    {
+      "timestamp": "2026-02-16 07:19:00",
+      "timeframe": "1m",
+      "signal": "BUY",
+      "entry_price": 0.10196,
+      "strength": 75,
+      "smc_status": "NEUTRAL",
+      "session": "ASIAN",
+      "rsi": 34.29,
+      "outcome": "WIN",
+      "exit_price": 0.10234,
+      "pnl": 0.00038000000000000533,
+      "pnl_pct": 0.3726951745782713,
+      "exit_reason": "TIMEOUT",
+      "bars_held": 100,
+      "risk_reward": 0
+    },
+    {
+      "timestamp": "2026-02-16 07:20:00",
+      "timeframe": "1m",
+      "signal": "BUY",
+      "entry_price": 0.10196,
+      "strength": 75,
+      "smc_status": "NEUTRAL",
+      "session": "ASIAN",
+      "rsi": 34.29,
+      "outcome": "WIN",
+      "exit_price": 0.10236,
+      "pnl": 0.00040000000000001146,
+      "pnl_pct": 0.3923107100823965,
+      "exit_reason": "TIMEOUT",
+      "bars_held": 100,
+      "risk_reward": 0
+    },
+    {
+      "timestamp": "2026-02-16 07:27:00",
+      "timeframe": "1m",
+      "signal": "BUY",
+      "entry_price": 0.10221,
+      "strength": 90,
+      "smc_status": "NEUTRAL",
+      "session": "ASIAN",
+      "rsi": 51.97,
+      "outcome": "WIN",
+      "exit_price": 0.10267,
+      "pnl": 0.0004600000000000021,
+      "pnl_pct": 0.45005381078172596,
+      "exit_reason": "TIMEOUT",
+      "bars_held": 100,
+      "risk_reward": 0
+    },
+    {
+      "timestamp": "2026-02-16 09:16:00",
+      "timeframe": "1m",
+      "signal": "SELL",
+      "entry_price": 0.10252,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "LONDON",
+      "rsi": 48.89,
+      "outcome": "LOSS",
+      "exit_price": 0.10304,
+      "pnl": -0.0005200000000000066,
+      "pnl_pct": -0.5072181037846338,
+      "exit_reason": "SL_HIT",
+      "bars_held": 18,
+      "risk_reward": 2.957307692307666
+    },
+    {
+      "timestamp": "2026-02-16 10:26:00",
+      "timeframe": "1m",
+      "signal": "BUY",
+      "entry_price": 0.10246,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "LONDON",
+      "rsi": 32.07,
+      "outcome": "LOSS",
+      "exit_price": 0.10244,
+      "pnl": -1.9999999999992246e-05,
+      "pnl_pct": -0.019519812609791378,
+      "exit_reason": "SL_HIT",
+      "bars_held": 43,
+      "risk_reward": 76.84500000002949
+    }
+  ],
+  "equity_curve": [
+    {
+      "timestamp": "2026-02-16 01:36:00",
+      "equity": 9900,
+      "trade_num": 1
+    },
+    {
+      "timestamp": "2026-02-16 01:37:00",
+      "equity": 9800,
+      "trade_num": 2
+    },
+    {
+      "timestamp": "2026-02-16 03:45:00",
+      "equity": 10345.839285714303,
+      "trade_num": 3
+    },
+    {
+      "timestamp": "2026-02-16 04:07:00",
+      "equity": 10245.839285714303,
+      "trade_num": 4
+    },
+    {
+      "timestamp": "2026-02-16 07:12:00",
+      "equity": 10245.839285714303,
+      "trade_num": 5
+    },
+    {
+      "timestamp": "2026-02-16 07:19:00",
+      "equity": 10245.839285714303,
+      "trade_num": 6
+    },
+    {
+      "timestamp": "2026-02-16 07:20:00",
+      "equity": 10245.839285714303,
+      "trade_num": 7
+    },
+    {
+      "timestamp": "2026-02-16 07:27:00",
+      "equity": 10245.839285714303,
+      "trade_num": 8
+    },
+    {
+      "timestamp": "2026-02-16 09:16:00",
+      "equity": 10145.839285714303,
+      "trade_num": 9
+    },
+    {
+      "timestamp": "2026-02-16 10:26:00",
+      "equity": 10045.839285714303,
+      "trade_num": 10
+    }
+  ]
+}

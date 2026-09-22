@@ -1,0 +1,41 @@
+{
+  "metrics": {
+    "total_trades": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "profit_factor": 0.0,
+    "avg_win_pct": 0,
+    "avg_loss_pct": -0.09,
+    "avg_rr": 15.83,
+    "max_drawdown_pct": 1.0,
+    "total_return_pct": -1.0,
+    "final_capital": 9900
+  },
+  "trades": [
+    {
+      "timestamp": "2026-02-12 08:15:00",
+      "timeframe": "5m",
+      "signal": "SELL",
+      "entry_price": 112.903,
+      "strength": 80,
+      "smc_status": "NEUTRAL",
+      "session": "UNKNOWN",
+      "rsi": 75.5,
+      "outcome": "LOSS",
+      "exit_price": 113.01,
+      "pnl": -0.10699999999999932,
+      "pnl_pct": -0.09477161811466418,
+      "exit_reason": "SL_HIT",
+      "bars_held": 66,
+      "risk_reward": 15.827523364486085
+    }
+  ],
+  "equity_curve": [
+    {
+      "timestamp": "2026-02-12 08:15:00",
+      "equity": 9900,
+      "trade_num": 1
+    }
+  ]
+}

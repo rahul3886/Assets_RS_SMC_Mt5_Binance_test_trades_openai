@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "total_trades": 6,
+    "wins": 2,
+    "losses": 4,
+    "win_rate": 33.33,
+    "profit_factor": 1.52,
+    "avg_win_pct": 0.36,
+    "avg_loss_pct": -0.12,
+    "avg_rr": 15.8,
+    "max_drawdown_pct": 4.0,
+    "total_return_pct": -4.0,
+    "final_capital": 9600
+  },
+  "trades": [
+    {
+      "timestamp": "2026-02-12 20:15:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 152.818,
+      "strength": 70,
+      "smc_status": "NEUTRAL",
+      "session": "UNKNOWN",
+      "rsi": 52.83,
+      "outcome": "WIN",
+      "exit_price": 153.108,
+      "pnl": 0.28999999999999204,
+      "pnl_pct": 0.18976822102107868,
+      "exit_reason": "TIMEOUT",
+      "bars_held": 100,
+      "risk_reward": 0
+    },
+    {
+      "timestamp": "2026-02-13 01:45:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 152.707,
+      "strength": 90,
+      "smc_status": "NEUTRAL",
+      "session": "ASIAN",
+      "rsi": 43.48,
+      "outcome": "WIN",
+      "exit_price": 153.508,
+      "pnl": 0.8010000000000161,
+      "pnl_pct": 0.5245339113465762,
+      "exit_reason": "TIMEOUT",
+      "bars_held": 100,
+      "risk_reward": 0
+    },
+    {
+      "timestamp": "2026-02-13 14:00:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 153.336,
+      "strength": 70,
+      "smc_status": "NEUTRAL",
+      "session": "NEW_YORK",
+      "rsi": 42.22,
+      "outcome": "LOSS",
+      "exit_price": 153.23,
+      "pnl": -0.10600000000002296,
+      "pnl_pct": -0.06912923253510132,
+      "exit_reason": "SL_HIT",
+      "bars_held": 12,
+      "risk_reward": 21.698490566032994
+    },
+    {
+      "timestamp": "2026-02-13 14:20:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 153.336,
+      "strength": 85,
+      "smc_status": "NEUTRAL",
+      "session": "NEW_YORK",
+      "rsi": 44.18,
+      "outcome": "LOSS",
+      "exit_price": 153.23,
+      "pnl": -0.10600000000002296,
+      "pnl_pct": -0.06912923253510132,
+      "exit_reason": "SL_HIT",
+      "bars_held": 8,
+      "risk_reward": 21.698490566032994
+    },
+    {
+      "timestamp": "2026-02-13 15:40:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 153.244,
+      "strength": 95,
+      "smc_status": "NEUTRAL",
+      "session": "NEW_YORK",
+      "rsi": 46.84,
+      "outcome": "LOSS",
+      "exit_price": 152.912,
+      "pnl": -0.33199999999999363,
+      "pnl_pct": -0.21664796011588947,
+      "exit_reason": "SL_HIT",
+      "bars_held": 9,
+      "risk_reward": 6.923674698795265
+    },
+    {
+      "timestamp": "2026-02-13 16:40:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 152.965,
+      "strength": 70,
+      "smc_status": "NEUTRAL",
+      "session": "NEW_YORK",
+      "rsi": 38.78,
+      "outcome": "LOSS",
+      "exit_price": 152.787,
+      "pnl": -0.17799999999999727,
+      "pnl_pct": -0.11636648906612444,
+      "exit_reason": "SL_HIT",
+      "bars_held": 26,
+      "risk_reward": 12.890308988764115
+    }
+  ],
+  "equity_curve": [
+    {
+      "timestamp": "2026-02-12 20:15:00",
+      "equity": 10000,
+      "trade_num": 1
+    },
+    {
+      "timestamp": "2026-02-13 01:45:00",
+      "equity": 10000,
+      "trade_num": 2
+    },
+    {
+      "timestamp": "2026-02-13 14:00:00",
+      "equity": 9900,
+      "trade_num": 3
+    },
+    {
+      "timestamp": "2026-02-13 14:20:00",
+      "equity": 9800,
+      "trade_num": 4
+    },
+    {
+      "timestamp": "2026-02-13 15:40:00",
+      "equity": 9700,
+      "trade_num": 5
+    },
+    {
+      "timestamp": "2026-02-13 16:40:00",
+      "equity": 9600,
+      "trade_num": 6
+    }
+  ]
+}

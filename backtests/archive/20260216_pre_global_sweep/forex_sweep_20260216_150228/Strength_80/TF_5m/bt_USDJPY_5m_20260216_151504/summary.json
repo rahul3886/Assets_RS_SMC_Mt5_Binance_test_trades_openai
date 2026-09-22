@@ -1,0 +1,85 @@
+{
+  "metrics": {
+    "total_trades": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 33.33,
+    "profit_factor": 1.84,
+    "avg_win_pct": 0.52,
+    "avg_loss_pct": -0.14,
+    "avg_rr": 14.31,
+    "max_drawdown_pct": 2.0,
+    "total_return_pct": -2.0,
+    "final_capital": 9800
+  },
+  "trades": [
+    {
+      "timestamp": "2026-02-13 01:45:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 152.707,
+      "strength": 90,
+      "smc_status": "NEUTRAL",
+      "session": "ASIAN",
+      "rsi": 43.48,
+      "outcome": "WIN",
+      "exit_price": 153.508,
+      "pnl": 0.8010000000000161,
+      "pnl_pct": 0.5245339113465762,
+      "exit_reason": "TIMEOUT",
+      "bars_held": 100,
+      "risk_reward": 0
+    },
+    {
+      "timestamp": "2026-02-13 14:20:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 153.336,
+      "strength": 85,
+      "smc_status": "NEUTRAL",
+      "session": "NEW_YORK",
+      "rsi": 44.18,
+      "outcome": "LOSS",
+      "exit_price": 153.23,
+      "pnl": -0.10600000000002296,
+      "pnl_pct": -0.06912923253510132,
+      "exit_reason": "SL_HIT",
+      "bars_held": 8,
+      "risk_reward": 21.698490566032994
+    },
+    {
+      "timestamp": "2026-02-13 15:40:00",
+      "timeframe": "5m",
+      "signal": "BUY",
+      "entry_price": 153.244,
+      "strength": 95,
+      "smc_status": "NEUTRAL",
+      "session": "NEW_YORK",
+      "rsi": 46.84,
+      "outcome": "LOSS",
+      "exit_price": 152.912,
+      "pnl": -0.33199999999999363,
+      "pnl_pct": -0.21664796011588947,
+      "exit_reason": "SL_HIT",
+      "bars_held": 9,
+      "risk_reward": 6.923674698795265
+    }
+  ],
+  "equity_curve": [
+    {
+      "timestamp": "2026-02-13 01:45:00",
+      "equity": 10000,
+      "trade_num": 1
+    },
+    {
+      "timestamp": "2026-02-13 14:20:00",
+      "equity": 9900,
+      "trade_num": 2
+    },
+    {
+      "timestamp": "2026-02-13 15:40:00",
+      "equity": 9800,
+      "trade_num": 3
+    }
+  ]
+}
